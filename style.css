@@ -1,1 +1,22 @@
-/* Empty file for template. Remember to edit only this file and not the HTML file */
+body {
+    background-image: url(joke\ 2.jpeg);
+    background-position: center;
+    background-size: 140%;
+    background-repeat: no-repeat;
+}
+
+.page-wraper {
+    width: 1440px;
+}
+.intro {
+    justify-self: left;
+    color: rgb(255, 255, 255);
+}
+
+#zen-supporting, .wraper {
+    color: rgb(255, 255, 255);
+}
+.wrapper {
+    color: white;
+}
+
